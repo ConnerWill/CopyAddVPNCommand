@@ -1,4 +1,4 @@
-#  CopyAddVPNCommand
+# CopyAddVPNCommand
 
 <!--
 ![iPyClip Banner](media/iPyClip-Banner.png)
@@ -14,12 +14,10 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/CopyAddVPNCommand)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/CopyAddVPNCommand?style=social)
 
-<!--
-
 ## Table Of Contents
 * [CopyAddVPNCommand](#CopyAddVPNCommand)
-* [Overview](#overview)
-* [Usage](#usage)
+  * [Overview](#overview)
+<!--* [Usage](#usage)
 * [Hotkeys](#hotkeys)
 * [Key States](#key-states)
    * [Caps Lock](#caps-lock)
@@ -41,7 +39,7 @@
 
 
 # Overview
-**[*CopyAddVPNCommand*](https://github.com/ConnerWill/CopyAddVPNCommand) is a AutoHotKey script to allow you to easily copy the PowerShell commands needed to create a VPN connection by preseting a small GUI with text boxes for the VPN configuration settings**
+[*CopyAddVPNCommand*](https://github.com/ConnerWill/CopyAddVPNCommand) is a AutoHotKey script to allow you to easily copy the PowerShell commands needed to create a VPN connection by preseting a small GUI with text boxes for the VPN configuration settings.
 
 
 <!--
