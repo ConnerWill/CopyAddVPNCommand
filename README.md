@@ -1,8 +1,5 @@
 # CopyAddVPNCommand
 
-<<<<<<< HEAD
-
-
 <div align="center">
 
 <img width="256" height="256" src="/media/Copy_Add-VPN_Command.png">
