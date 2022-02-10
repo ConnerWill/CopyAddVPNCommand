@@ -45,7 +45,14 @@ All that is left is to run that command in an elevated powershell session to cre
 
 # Demo
 
-<img width="480" height="320" src="/media/AddVPNCommand-demo.gif">
+
+<div align="center">
+
+<img width="720" height="480" src="/media/AddVPNCommand-demo.gif">
+
+</div>
+
+> *Sorry about poor quality* **:(**
 
 <p align="right"><a href="#top">back to top</a>)</p>
 
