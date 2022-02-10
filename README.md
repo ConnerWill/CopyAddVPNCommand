@@ -12,10 +12,7 @@
 ### **AutoHotKey PowerShell Add VPN Command Generator**
 > [*CopyAddVPNCommand*](https://github.com/ConnerWill/CopyAddVPNCommand) is an AutoHotKey script that allows you to easily copy the PowerShell command needed to create a VPN connection.
 
-> > **Very helpful in Helpdesk scenarios.**
-
-=======
-
+> *Very helpful in Helpdesk scenarios.*
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/CopyAddVPNCommand)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/CopyAddVPNCommand)
@@ -24,15 +21,14 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/CopyAddVPNCommand)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/CopyAddVPNCommand?style=social)
 
+
 </div>
 
 ---
 
 * [CopyAddVPNCommand](#copyaddvpncommand)
-* [Table of Contents](#table-of-contents)
-* [Overview](#overview)
-    * [Description](#description)
-    * [Demo](#demo)
+* [Description](#description)
+* [Demo](#demo)
 * [Other](#other)
    * [Contributing](#contributing)
 
@@ -40,16 +36,14 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Overview
-
-## Description
+# Description
 
 This is an AutoHotKey script that launched a prompt box when run asking for the VPN server address, a name for the VPN, and the password to connect to the VPN.
 After clicking 'Ok', the powershell command is copied to your clipboard with the information you previously entered.
 All that is left is to run that command in an elevated powershell session to create the VPN.
 
 
-## Demo
+# Demo
 
 <img width="480" height="320" src="/media/AddVPNCommand-demo.gif">
 
