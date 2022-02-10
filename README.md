@@ -50,7 +50,7 @@ All that is left is to run that command in an elevated powershell session to cre
 
 <img width="720" height="480" src="/media/AddVPNCommand-demo.gif">
 
-<i>Sorry about the low res image</i>  <code>:,(</code>
+<i>Sorry about the low res image</i>  <code>:(</code>
 </div>
 
 ---
