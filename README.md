@@ -50,14 +50,10 @@ All that is left is to run that command in an elevated powershell session to cre
 
 <img width="720" height="480" src="/media/AddVPNCommand-demo.gif">
 
+Sorry about poor quality <code>:(</code>
 </div>
 
-
-<div align="right">
-Sorry about poor quality* <code>:(</code>
-</div>
-
-<p align="right"><a href="#top">back to top</a>)</p>
+---
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
