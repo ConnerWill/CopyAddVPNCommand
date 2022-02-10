@@ -54,7 +54,7 @@ All that is left is to run that command in an elevated powershell session to cre
 
 
 <div align="right">
-> *Sorry about poor quality* **:(**
+Sorry about poor quality* <code>:(</code>
 </div>
 
 <p align="right"><a href="#top">back to top</a>)</p>
