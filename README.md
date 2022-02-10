@@ -24,6 +24,8 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/CopyAddVPNCommand)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/CopyAddVPNCommand?style=social)
 
+</div>
+
 ---
 
 * [CopyAddVPNCommand](#copyaddvpncommand)
