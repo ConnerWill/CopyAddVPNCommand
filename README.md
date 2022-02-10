@@ -27,10 +27,10 @@
 ---
 
 * [CopyAddVPNCommand](#copyaddvpncommand)
-* [Description](#description)
-* [Demo](#demo)
-* [Other](#other)
-   * [Contributing](#contributing)
+    * [Description](#description)
+    * [Demo](#demo)
+    * [Other](#other)
+    * [Contributing](#contributing)
 
   ---
 
