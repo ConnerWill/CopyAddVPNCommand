@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="256" height="256" src="/media/Copy_Add-VPN_Command.png">
+<img width="256" height="256" src="/assets/Copy_Add-VPN_Command.png">
 
 # **CopyAddVPNCommand**
 
@@ -45,7 +45,7 @@ All that is left is to run that command in an elevated powershell session to cre
 
 <div align="center">
 
-<img width="720" height="480" src="/media/AddVPNCommand-demo.gif">
+<img width="720" height="480" src="/assets/AddVPNCommand-demo.gif">
 
 <i>Sorry about the low res image</i>  <code>:(</code>
 </div>
